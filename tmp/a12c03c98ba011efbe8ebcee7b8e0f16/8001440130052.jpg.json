@@ -1,0 +1,35 @@
+{
+	"elapsedTime": 382,
+	"results": [
+		{
+			"barcodeFormat": "EAN_13",
+			"barcodeFormat_2": "No Barcode Format in group 2",
+			"barcodeText": "[Attention(exceptionCode:-10017)] 800*4*013*05*",
+			"barcodeBytes": "W0F0dGVudGlvbihleGNlcHRpb25Db2RlOi0xMDAxNyldIDgwMCo0KjAxMyowNSo=",
+			"confidence": 61,
+			"x1": 268,
+			"y1": 907,
+			"x2": 268,
+			"y2": 778,
+			"x3": 294,
+			"y3": 768,
+			"x4": 296,
+			"y4": 907
+		},
+		{
+			"barcodeFormat": "EAN_13",
+			"barcodeFormat_2": "No Barcode Format in group 2",
+			"barcodeText": "[Attention(exceptionCode:-10017)] 800*4*013*05*",
+			"barcodeBytes": "W0F0dGVudGlvbihleGNlcHRpb25Db2RlOi0xMDAxNyldIDgwMCo0KjAxMyowNSo=",
+			"confidence": 43,
+			"x1": 238,
+			"y1": 907,
+			"x2": 238,
+			"y2": 774,
+			"x3": 256,
+			"y3": 774,
+			"x4": 256,
+			"y4": 907
+		}
+	]
+}

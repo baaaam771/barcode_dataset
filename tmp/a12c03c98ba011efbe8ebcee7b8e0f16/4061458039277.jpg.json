@@ -1,0 +1,35 @@
+{
+	"elapsedTime": 212,
+	"results": [
+		{
+			"barcodeFormat": "QR_CODE",
+			"barcodeFormat_2": "No Barcode Format in group 2",
+			"barcodeText": "[Attention(exceptionCode:-10016)] http://*erku***.*l**-sue**de",
+			"barcodeBytes": "W0F0dGVudGlvbihleGNlcHRpb25Db2RlOi0xMDAxNildIGh0dHA6Ly8qZXJrdSoqKi4qbCoqLXN1ZSoqZGU=",
+			"confidence": 82,
+			"x1": 278,
+			"y1": 1860,
+			"x2": 741,
+			"y2": 1899,
+			"x3": 690,
+			"y3": 2364,
+			"x4": 247,
+			"y4": 2325
+		},
+		{
+			"barcodeFormat": "EAN_13",
+			"barcodeFormat_2": "No Barcode Format in group 2",
+			"barcodeText": "[Attention(exceptionCode:-10017)] *06*4580*9*77",
+			"barcodeBytes": "W0F0dGVudGlvbihleGNlcHRpb25Db2RlOi0xMDAxNyldICowNio0NTgwKjkqNzc=",
+			"confidence": 68,
+			"x1": 1560,
+			"y1": 2779,
+			"x2": 1642,
+			"y2": 1814,
+			"x3": 2062,
+			"y3": 1847,
+			"x4": 2028,
+			"y4": 2821
+		}
+	]
+}

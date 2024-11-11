@@ -1,0 +1,20 @@
+{
+	"elapsedTime": 113,
+	"results": [
+		{
+			"barcodeFormat": "EAN_13",
+			"barcodeFormat_2": "No Barcode Format in group 2",
+			"barcodeText": "[Attention(exceptionCode:-10017)] 3*95758*5*0*4",
+			"barcodeBytes": "W0F0dGVudGlvbihleGNlcHRpb25Db2RlOi0xMDAxNyldIDMqOTU3NTgqNSowKjQ=",
+			"confidence": 84,
+			"x1": 108,
+			"y1": 1854,
+			"x2": 397,
+			"y2": 1856,
+			"x3": 397,
+			"y3": 1954,
+			"x4": 108,
+			"y4": 1954
+		}
+	]
+}

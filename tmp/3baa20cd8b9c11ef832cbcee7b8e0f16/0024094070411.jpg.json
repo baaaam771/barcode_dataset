@@ -1,0 +1,35 @@
+{
+	"elapsedTime": 263,
+	"results": [
+		{
+			"barcodeFormat": "QR_CODE",
+			"barcodeFormat_2": "No Barcode Format in group 2",
+			"barcodeText": "[Attention(exceptionCode:-10016)] *ttp*//us.****ccom*b****it/pasta/pen*er*g*te",
+			"barcodeBytes": "W0F0dGVudGlvbihleGNlcHRpb25Db2RlOi0xMDAxNildICp0dHAqLy91cy4qKioqY2NvbSpiKioqKml0L3Bhc3RhL3BlbiplcipnKnRl",
+			"confidence": 100,
+			"x1": 1070,
+			"y1": 1736,
+			"x2": 1263,
+			"y2": 1733,
+			"x3": 1271,
+			"y3": 1934,
+			"x4": 1074,
+			"y4": 1939
+		},
+		{
+			"barcodeFormat": "UPC_A",
+			"barcodeFormat_2": "No Barcode Format in group 2",
+			"barcodeText": "[Attention(exceptionCode:-10017)] *2**94*70411",
+			"barcodeBytes": "W0F0dGVudGlvbihleGNlcHRpb25Db2RlOi0xMDAxNyldICoyKio5NCo3MDQxMQ==",
+			"confidence": 100,
+			"x1": 783,
+			"y1": 2144,
+			"x2": 1263,
+			"y2": 2130,
+			"x3": 1274,
+			"y3": 2411,
+			"x4": 783,
+			"y4": 2428
+		}
+	]
+}

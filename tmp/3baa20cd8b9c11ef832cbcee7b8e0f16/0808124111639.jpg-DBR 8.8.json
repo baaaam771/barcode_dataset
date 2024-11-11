@@ -1,0 +1,20 @@
+{
+	"elapsedTime": 107,
+	"results": [
+		{
+			"barcodeFormat": "UPC_A",
+			"barcodeFormat_2": "No Barcode Format in group 2",
+			"barcodeText": "[Attention(exceptionCode:-10017)] 8081*411***9",
+			"barcodeBytes": "W0F0dGVudGlvbihleGNlcHRpb25Db2RlOi0xMDAxNyldIDgwODEqNDExKioqOQ==",
+			"confidence": 77,
+			"x1": 422,
+			"y1": 1482,
+			"x2": 647,
+			"y2": 1489,
+			"x3": 647,
+			"y3": 1563,
+			"x4": 422,
+			"y4": 1563
+		}
+	]
+}

@@ -1,0 +1,35 @@
+{
+	"elapsedTime": 447,
+	"results": [
+		{
+			"barcodeFormat": "UPC_A",
+			"barcodeFormat_2": "No Barcode Format in group 2",
+			"barcodeText": "[Attention(exceptionCode:-10017)] 0*13*36*4*53",
+			"barcodeBytes": "W0F0dGVudGlvbihleGNlcHRpb25Db2RlOi0xMDAxNyldIDAqMTMqMzYqNCo1Mw==",
+			"confidence": 100,
+			"x1": 488,
+			"y1": 1584,
+			"x2": 998,
+			"y2": 1583,
+			"x3": 997,
+			"y3": 1783,
+			"x4": 491,
+			"y4": 1782
+		},
+		{
+			"barcodeFormat": "DATAMATRIX",
+			"barcodeFormat_2": "No Barcode Format in group 2",
+			"barcodeText": "[Attention(exceptionCode:-10020)] 9*452**8",
+			"barcodeBytes": "W0F0dGVudGlvbihleGNlcHRpb25Db2RlOi0xMDAyMCldIDkqNDUyKio4",
+			"confidence": 82,
+			"x1": 476,
+			"y1": 144,
+			"x2": 556,
+			"y2": 144,
+			"x3": 555,
+			"y3": 220,
+			"x4": 477,
+			"y4": 220
+		}
+	]
+}

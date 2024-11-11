@@ -1,0 +1,20 @@
+{
+	"elapsedTime": 114,
+	"results": [
+		{
+			"barcodeFormat": "QR_CODE",
+			"barcodeFormat_2": "No Barcode Format in group 2",
+			"barcodeText": "[Attention(exceptionCode:-10016)] ht**s:**aldi.in/9**b",
+			"barcodeBytes": "W0F0dGVudGlvbihleGNlcHRpb25Db2RlOi0xMDAxNildIGh0KipzOioqYWxkaS5pbi85Kipi",
+			"confidence": 88,
+			"x1": 261,
+			"y1": 287,
+			"x2": 331,
+			"y2": 289,
+			"x3": 330,
+			"y3": 359,
+			"x4": 260,
+			"y4": 357
+		}
+	]
+}
